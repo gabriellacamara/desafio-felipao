@@ -1,3 +1,5 @@
+# Objetivo
+
 O objetivo do presente desafio, proposto pelo professor Felipão, foi: 
 1. Criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, utilizando: Variáveis, Operadores, Laços de repetição;
 3. Depois, utilizar uma estrutura de decisão para apresentar alguma das mensagens abaixo:
@@ -20,8 +22,9 @@ Se XP for entre 9.001 e 10.000= Imortal
 
 Se XP for maior ou igual a 10.001 = Radiante
 
+---
 
-## Saída
+# Saída
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
